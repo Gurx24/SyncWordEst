@@ -1,2 +1,11 @@
-# SyncWordEst
-This program realized estimation of synchronization word
+# 同步字估计算法
+该程序实现了一种同步字估计算法
+
+
+
+## 文件说明
+
+- **note.md**文件介绍了该算法的具体实现方法。
+- **src**文件夹包含算法源码。
+
+- **data**文件夹包含参考文献以及**note.md**文件中的图片。
